@@ -191,5 +191,6 @@ Mobile.tap(findTestObject(''), 0)
 
 Mobile.tap(findTestObject('Object Repository/Monday_17_7_Complete_RegisterNow_Flow/android.widget.TextView - (6)'), 0)
 
-Mobile.closeApplication()
+//Mobile.closeApplication()
 
+Mobile.closeApplication()
